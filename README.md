@@ -1,6 +1,6 @@
 # Organization Management 🏫
 
-
+### NOTE: In this example we used a kindergarden, but it can be used for all kinds of businesses and organizations.
 
 This is a simple web application project built with React to facilitate the management of staff, children, and parents in a kindergarden. In this example we used a kindergarden, but it can be used for all kinds of businesses and organizations.
 
