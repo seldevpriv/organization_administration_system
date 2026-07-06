@@ -1,4 +1,4 @@
-# Kindergarden Management 🏫
+# Organization Management 🏫
 
 
 
